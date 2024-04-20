@@ -107,7 +107,7 @@ def search_and_download(search_term: str, driver_path: str, target_path="./image
 # chrome version: Version 87.0.4280.66 (Official Build) (64-bit)
 
 DRIVER_PATH = "E:\img-scrap-lts\scrapper1\chromedriver.exe"
-search_term = 'cristiano ronaldo'
+search_term = 'vehical helmet during riding bike'
 # num of images you can pass it from here  by default it's 10 if you are not passing
 number_images = 20
 search_and_download(search_term=search_term, driver_path=DRIVER_PATH, number_images = number_images)
